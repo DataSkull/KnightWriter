@@ -1,7 +1,7 @@
 {
     "version": 1,
     "themes": {
-        "sky": {
+        "knightwriter": {
             "name": "KnightWriter",
             "repo": "https://github.com/DataSkull/KnightWriter/tree/main",
             "zip": "https://github.com/DataSkull/KnightWriter/archive/main.zip",
