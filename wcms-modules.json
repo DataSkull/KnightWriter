@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "sky": {
+            "name": "KnightWriter",
+            "repo": "https://github.com/DataSkull/KnightWriter/tree/main",
+            "zip": "https://github.com/DataSkull/KnightWriter/archive/main.zip",
+            "summary": "An Incredible WonderCMS theme (2022).",
+            "version": "1.0.0",
+            "image": "https://raw.githubusercontent.com/DataSkull/KnightWriter/main/preview.jpg"
+        }
+    }
+}
